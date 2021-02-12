@@ -1,0 +1,2 @@
+defmodule EctoMoney do
+end
